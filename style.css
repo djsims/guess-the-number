@@ -1,0 +1,21 @@
+body {
+    background: #2fb597;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+
+.guess-number-wrapper {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.guess-number-wrapper .end-menu-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
